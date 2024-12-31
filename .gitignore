@@ -1,2 +1,3 @@
 dist/
 venv/
+src/pysend_cli.egg-info
