@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/core/__init__.py
+src/core/main.py
+src/pysend.egg-info/PKG-INFO
+src/pysend.egg-info/SOURCES.txt
+src/pysend.egg-info/dependency_links.txt
+src/pysend.egg-info/entry_points.txt
+src/pysend.egg-info/top_level.txt
