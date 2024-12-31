@@ -5,7 +5,7 @@ A simple command-line tool for sending emails to yourself.
 ## Installation
 
 ```bash
-pip install pysend
+pip install pysend-cli
 ```
 
 ## Usage
